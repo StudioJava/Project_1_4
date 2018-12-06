@@ -1,0 +1,11 @@
+{
+	"full_name" : "Ray Villalobos",
+	"title" : "Staff Author",
+	"links" : [
+			{ "blog"     : "https://medium.com" },
+			{ "facebook" : "https://www.facebook.com" },
+			{ "podcast"  : "https://lewishowes.com/blog/" },
+			{ "twitter"  : "https://twitter.com/LewisHowes" },
+			{ "youtube"  : "https://www.youtube.com/user/lewishowes" }
+		]
+}
